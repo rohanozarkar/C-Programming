@@ -1,0 +1,14 @@
+
+**********************************************************************
+Steps in Programming
+
+**********************************************************************
+-01. Write programming using any text editer (notepad, words)
+-02. Save program with ".c" extension 
+      eg- prog01.c
+-03. compile program using compiler (Turbo C, Dev C++, Visual studio)
+      remove bugs/ error if find
+-04. Run program
+- 05. validate program (by cheking desire output)
+
+**********************************************************************
